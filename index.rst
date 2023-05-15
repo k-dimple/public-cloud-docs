@@ -19,7 +19,7 @@ Public Cloud Partners
 
 ..  grid:: 1 1 2 2
 
-   ..  grid-item:: :doc:`AWS <aws/index>`
+   ..  grid-item:: :doc:`AWS <aws-docs/index>`
 
        **Ubuntu on AWS** Whether you are moving to Amazon Web Services or 
        are already running cloud-native, Ubuntu is the platform of choice for AWS.

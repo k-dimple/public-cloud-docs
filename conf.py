@@ -11,7 +11,7 @@ import datetime
 project = 'Public Cloud'
 author = 'Canonical Group Ltd'
 copyright = "%s, %s" % (datetime.date.today().year, author)
-release = '0.2'
+release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -21,9 +21,7 @@ extensions = [
     'sphinx_tabs.tabs',
     'sphinx_reredirects']
 
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.sphinx']
-
-
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.sphinx', 'readme.rst']
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
