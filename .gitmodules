@@ -1,3 +1,6 @@
 [submodule "aws-docs"]
 	path = aws-docs
 	url = git@github.com:k-dimple/aws-docs.git
+[submodule "common-content"]
+	path = common-content
+	url = git@github.com:k-dimple/common-content.git

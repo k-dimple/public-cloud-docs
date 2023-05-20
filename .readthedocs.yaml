@@ -20,3 +20,8 @@ sphinx:
 python:
    install:
    - requirements: .sphinx/requirements.txt
+
+# Include or exclude git submodules from the Read the Docs
+# documentation build.
+submodules:
+  include: all
