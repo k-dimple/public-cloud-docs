@@ -23,9 +23,9 @@ Public Cloud Partners
 
 ..  grid:: 1 1 2 2
 
-   ..  grid-item:: :doc:`AWS <aws-docs/index>`
+   ..  grid-item:: :doc:`AWS - Submodule <aws-docs/index>`
 
-       **Ubuntu on AWS** Whether you are moving to Amazon Web Services or 
+       `**Ubuntu on AWS** - External Project <https://canonical-aws-docs.readthedocs-hosted.com/en/latest/>_` Whether you are moving to Amazon Web Services or 
        are already running cloud-native, Ubuntu is the platform of choice for AWS.
 
    ..  grid-item:: :doc:`Azure <azure/index>`
