@@ -12,7 +12,11 @@ with the option of enterprise-grade commercial support.
 **Ubuntu builds optimised and certified server images.** This is done for partners 
 like Amazon AWS, Microsoft Azure, Google Cloud Platform, IBM Cloud and Oracle. 
 
----------
+Testing ref link ################# : :ref:`public-cloud:home`
+
+Testing include ################## : 
+
+.. include:: ./common-content/readme.rst
 
 Public Cloud Partners
 ---------------------
