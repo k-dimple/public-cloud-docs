@@ -19,9 +19,14 @@ release = '1.0'
 extensions = [
     'sphinx_design',
     'sphinx_tabs.tabs',
-    'sphinx_reredirects']
+    'sphinx_reredirects',    
+    'sphinx.ext.intersphinx']
 
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.sphinx', 'readme.rst']
+
+intersphinx_mapping = {
+    'public-cloud': ('https://canonical-public-cloud.readthedocs-hosted.com/en/latest/', None)
+}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
